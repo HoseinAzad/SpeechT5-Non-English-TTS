@@ -18,40 +18,26 @@ Here are some generated samples from the model that I trained on the Persian Com
 
 
 **Sample 1**
-https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/assets/74851226/0447ab14-a68d-4a5e-94db-5ddd29e111d3
 
-[1.webm](https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/assets/74851226/dfd5676d-f0f4-4f35-86f6-9748a16a62be)
-
-
-
-https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/assets/74851226/4e6eb4b0-1678-4a35-ba53-3dfb2b8e152b
-
-
-
+https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/assets/74851226/6f24e01d-aa9f-47d1-b033-22da3eb8bf87
 
 **Sample 2**
-<audio controls>
-  <source src="https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/blob/master/results/2.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+
+https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/assets/74851226/428a06be-c63e-4d2c-9a31-d69380eaa312
 
 **Sample 3**
-<audio controls>
-  <source src="https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/blob/master/results/3.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+
+https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/assets/74851226/18273f85-a6a6-44d9-8a17-10aac2e67838
+
 
 **Sample 4**
-<audio controls>
-  <source src="https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/blob/master/results/4.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+
+https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/assets/74851226/d90dd225-253f-4b19-81a0-b8fff3da1086
 
 **Sample 5**
-<audio controls>
-  <source src="https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/blob/master/results/5.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+
+https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/assets/74851226/3567ad20-4784-4bd0-832b-ede91b544aea
+
 
 ## References 
 This code draws lessons from:<br>
