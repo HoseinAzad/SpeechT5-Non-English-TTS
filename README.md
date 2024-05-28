@@ -20,7 +20,7 @@ https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/assets/74851226/0447ab14-
 
 **Sample 1**
 <audio controls>
-  <source src="https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/blob/master/results/1.mp4" type="audio/wav">
+  <source src="https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/blob/master/results/1.mp4" type="audio/mp4">
   Your browser does not support the audio element.
 </audio>
 
