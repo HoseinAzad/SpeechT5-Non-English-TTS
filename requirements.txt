@@ -1,0 +1,10 @@
+transformers==4.38.1
+speechbrain==0.5.16
+numpy==1.23.1
+pandas==1.5.3
+librosa==0.10.1
+torch==2.1.0+cu121
+transformers==4.37.2
+speechbrain==0.5.16
+tqdm==4.66.2
+matplotlib==3.7.1
