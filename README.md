@@ -16,7 +16,7 @@ Here are some generated samples from the model that I trained on the Persian Com
 
 **Sample 1**
 <audio controls>
-  <source src="https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/blob/master/results/1.wav" type="audio/wav">
+  <source src="https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/blob/master/results/1.mp4" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
