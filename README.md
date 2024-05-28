@@ -1,6 +1,7 @@
 # SpeechT5-Non-English-TTS
 Fine-tune SpeechT5 for non-English text-to-speech tasks, implemented in PyTorch.
-![Uploading speecht5_framework.jpg…]()
+
+![speecht5_framework](https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/assets/74851226/34589034-7790-4a5a-a037-6ee0df4d0a96)
 
 This repository contains code and resources for fine-tuning (or training) a SpeechT5 model on a non-English language for a text-to-speech task. The project leverages Huggingface's `transformers` library and `speechbrain` to load necessary models and tools. Other parts of the code, such as data preprocessing and train and evaluate functions, have been fully implemented using PyTorch. Therefore, feel free to make any changes you need to train your model efficiently.
 
