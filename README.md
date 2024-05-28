@@ -19,6 +19,12 @@ The main objective of this project is to fine-tune the SpeechT5 model for text-t
 ## Generated Samples
 Here are some generated samples from the model that I trained on the Persian Common Voice dataset.
 
+<script>
+    var audio = new Audio('https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/blob/master/results/1.wav');
+    audio.play();
+</script>
+
+
 **Sample 1**
 
 https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/assets/74851226/6f24e01d-aa9f-47d1-b033-22da3eb8bf87
