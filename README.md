@@ -19,7 +19,14 @@ Here are some generated samples from the model that I trained on the Persian Com
 
 **Sample 1**
 https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/assets/74851226/0447ab14-a68d-4a5e-94db-5ddd29e111d3
+
 [1.webm](https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/assets/74851226/dfd5676d-f0f4-4f35-86f6-9748a16a62be)
+
+
+
+https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/assets/74851226/4e6eb4b0-1678-4a35-ba53-3dfb2b8e152b
+
+
 
 
 **Sample 2**
