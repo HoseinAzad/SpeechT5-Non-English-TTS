@@ -15,14 +15,12 @@ The main objective of this project is to fine-tune the SpeechT5 model for text-t
 Here are some generated samples from the model that I trained on the Persian Common Voice dataset.
 
 
-https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/assets/74851226/0447ab14-a68d-4a5e-94db-5ddd29e111d3
 
 
 **Sample 1**
-<audio controls>
-  <source src="https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/blob/master/results/1.mp4" type="audio/mp4">
-  Your browser does not support the audio element.
-</audio>
+https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/assets/74851226/0447ab14-a68d-4a5e-94db-5ddd29e111d3
+[1.webm](https://github.com/HoseinAzad/SpeechT5-Non-English-TTS/assets/74851226/dfd5676d-f0f4-4f35-86f6-9748a16a62be)
+
 
 **Sample 2**
 <audio controls>
