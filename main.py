@@ -84,10 +84,6 @@ if __name__ == '__main__':
     train_data = load_data(dataset_path, train_info)
     test_data = load_data(dataset_path, test_info)
 
-    test_data = test_data.drop(index=1414)
-    #train_data = train_data.iloc[:200]
-    test_data = test_data.iloc[:4000]
-
     # Count the number of speakers in dataset
     speaker_counts = get_speaker_counts(train_data)
     speaker_counts_filtered = get_speaker_counts(train_data)
